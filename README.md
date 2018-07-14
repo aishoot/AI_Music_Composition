@@ -1,4 +1,4 @@
-# Music generation with [Google's Magenta](https://magenta.tensorflow.org/)
+# Music Generation with [Google's Magenta](https://magenta.tensorflow.org/)
 <img width="75%" height="75%" src="ai-compose-music.jpg"/>
 
 ## Dependency Library Installation
