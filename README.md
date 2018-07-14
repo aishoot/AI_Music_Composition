@@ -1,7 +1,5 @@
-# Music_Generation_Magenta
-Generate music with [Google's Magenta](https://magenta.tensorflow.org/).
+# Music generation with [Google's Magenta](https://magenta.tensorflow.org/)
 <img width="75%" height="75%" src="ai-compose-music.jpg"/>
-
 
 ## Dependency Library Installation
 Before following instructions, make sure that you have installed Anaconda.
