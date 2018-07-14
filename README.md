@@ -22,3 +22,5 @@ pip install magenta-gpu==0.3.2
 * https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
 * https://blog.csdn.net/zhujianing1993/article/details/74702709
 * [Google's Magenta](https://magenta.tensorflow.org/)
+
+*More code will be uploaded soon!*
