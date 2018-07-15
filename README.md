@@ -2,7 +2,7 @@
 <img width="75%" height="75%" src="ai-compose-music.jpg"/>
 
 ## Dependency Library Installation
-Before following instructions, make sure that you have installed Anaconda.
+Before following instructions, make sure that you have installed Anaconda and [bazel](https://docs.bazel.build/versions/master/getting-started.html).
 ```bash
 curl https://raw.githubusercontent.com/tensorflow/magenta/master/magenta/tools/magenta-install.sh > /tmp/magenta-install.sh
 bash /tmp/magenta-install.sh
