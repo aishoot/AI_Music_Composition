@@ -20,7 +20,6 @@ pip install magenta-gpu==0.3.2
 * https://towardsdatascience.com/deep-learning-with-tensorflow-part-3-music-and-text-generation-8a3fbfdc5e9b
 * https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
 * https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
-* https://blog.csdn.net/zhujianing1993/article/details/74702709
 * [Google's Magenta](https://magenta.tensorflow.org/)
 
 *More code will be uploaded soon!*
