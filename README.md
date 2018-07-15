@@ -2,7 +2,7 @@
 <img width="75%" height="75%" src="ai-compose-music.jpg"/>
 
 ## Dependency Library Installation
-Before following instructions, make sure that you have installed Anaconda and [bazel](https://docs.bazel.build/versions/master/getting-started.html) if you want to generate music with [Google's Magenta](https://magenta.tensorflow.org/).
+Before following instructions, make sure that you have installed Anaconda(Python 3.5+) and [bazel](https://docs.bazel.build/versions/master/getting-started.html) if you want to generate music with [Google's Magenta](https://magenta.tensorflow.org/).
 ```bash
 curl https://raw.githubusercontent.com/tensorflow/magenta/master/magenta/tools/magenta-install.sh > /tmp/magenta-install.sh
 bash /tmp/magenta-install.sh
@@ -10,6 +10,11 @@ source activate magenta
 pip install tensorflow-gpu==1.4.0
 pip install magenta-gpu==0.3.2
 ```
+If you want to compose music without Magenta, ignore above steps. But you should run the following command.
+```
+pip install -r requirements.txt
+```
+
 
 ## References
 * http://www.cnblogs.com/learn-to-rock/p/5677458.html
