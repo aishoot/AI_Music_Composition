@@ -19,5 +19,7 @@ pip install magenta-gpu==0.3.2
 * [基于深度学习生成音乐](https://www.cnblogs.com/lyrichu/p/9006854.html)
 * [Music and text generation](https://towardsdatascience.com/deep-learning-with-tensorflow-part-3-music-and-text-generation-8a3fbfdc5e9b)
 * [Tensorflow让神经网络自动创造音乐](https://blog.csdn.net/bestbuild/article/details/51927007)
+* [教练我想写日式流行歌！——黑科技magenta残差网络训练教程](http://articles.kevinz.cn/2017/05/25/magenta/)
+* [使用Magenta生成音乐](http://huisblog.cn/2018/03/20/magenta-intro/)
 
 *More code will be uploaded soon!*
